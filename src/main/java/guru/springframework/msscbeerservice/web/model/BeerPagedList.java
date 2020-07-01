@@ -1,4 +1,4 @@
-package com.example.demoweb.model;
+package guru.springframework.msscbeerservice.web.model;
 
 import java.util.List;
 import org.springframework.data.domain.PageImpl;
